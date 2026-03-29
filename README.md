@@ -1,4 +1,4 @@
-# Hướng Dẫn Setup Fullstack Chat App (Tích hợp Kernel Crypto)
+# Hướng Dẫn Setup Chat App (Tích hợp Kernel Crypto)
 
 Dự án này chạy Backend trên Windows và Frontend + Kernel Driver trên máy ảo Ubuntu (VMware). Hãy làm theo đúng thứ tự dưới đây.
 
